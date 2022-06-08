@@ -20,16 +20,16 @@ Joseph wanted to learn about supervision next as we began to explore his interes
 ### End-To-End Product
 Our end to end product is a web app that is mobile-friendly. It begins with a simple programming concept: allowing a user to play a rock-paper-scissors game with a computer. What makes this game special is the computer is able to recognize the user's guess with computer vision -- it can actually look at the sign on their hand and predict what sign they make. 
 
-Joseph's github link for the project: https://github.com/zyx5202/rock_paper_scissors
-Our project training folder: https://drive.google.com/drive/folders/1QTMxQOUy6YNWxAfTyEWsGja4tMopWv9y?usp=sharins
-Techical Components: 
-Python - PyTorch, Numpy, Pandas, PIL, OpenCV, Requests, Flask. 
-Flask Backend
-YOLOv5 Object Detection Model
-HTML/CSS/Bootstrap/CustomJS
-Cloud Development - Google Colab and Jupyter Notebooks
+Joseph's github link for the project: https://github.com/zyx5202/rock_paper_scissors <br>
+Our project training folder: https://drive.google.com/drive/folders/1QTMxQOUy6YNWxAfTyEWsGja4tMopWv9y?usp=sharins <br>
+Techical Components: <br>
+Python - PyTorch, Numpy, Pandas, PIL, OpenCV, Requests, Flask. <br>
+Flask Backend <br>
+YOLOv5 Object Detection Model <br>
+HTML/CSS/Bootstrap/CustomJS <br>
+Cloud Development - Google Colab and Jupyter Notebooks <br>
 
 ### What's Next:
-Now that we have built an end-to-end product, Joseph and I will be exploring his interests. He is very interested in the medical field so we are have just started working with COVID data and will likely build a dashboard or EDA notebook github page. 
+Now that we have built an end-to-end product, Joseph and I will be exploring his interests. He is very interested in the medical field so we are have just started working with COVID data and will likely build a dashboard or EDA notebook github page.  <br>
 
 Joseph has shown great interest for programming in the medical field, so we can explore applications of computer vision (X-Ray detection, Cancer Classification), Data Science (heart disease EDA, COVID EDA), or natural language processing (sequence processing). 
