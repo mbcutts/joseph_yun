@@ -1,0 +1,9 @@
+{"backend_state":"init","connection_file":"/projects/f5f38597-12ca-4603-94d4-a86293c3f1cc/.local/share/jupyter/runtime/kernel-a08c0e97-6f66-45c8-ac73-795ac9ee3ce4.json","kernel":"python3-ubuntu","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.5"}},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"28c2e0","input":"","pos":3,"type":"cell"}
+{"cell_type":"code","exec_count":0,"id":"962252","input":"","pos":5,"type":"cell"}
+{"cell_type":"code","exec_count":1,"id":"531a87","input":"import math","pos":0,"type":"cell"}
+{"cell_type":"code","exec_count":3,"id":"d8bcdd","input":"math.cos(45) #cosine of 45 radians.","output":{"0":{"data":{"text/plain":"0.5253219888177297"},"exec_count":3,"output_type":"execute_result"}},"pos":2,"type":"cell"}
+{"cell_type":"code","exec_count":4,"id":"dbe73c","input":"math.pow(6, 10) #6 to the tenth!","output":{"0":{"data":{"text/plain":"60466176.0"},"exec_count":4,"output_type":"execute_result"}},"pos":4,"type":"cell"}
+{"cell_type":"raw","id":"42df08","input":"#Check out this library, and answer the two questions below!\n#https://docs.python.org/3/library/math.html\n \n Some resources: computer scientists use stack overflow, geek academy, w3schools, python’s documentation, sometimes we also practice on leetcode to find out the answers we need. \n\n What is cos(45)?\n What is 6^10?","pos":1,"type":"cell"}
+{"id":0,"time":1632692021871,"type":"user"}
+{"last_load":1632692022080,"type":"file"}

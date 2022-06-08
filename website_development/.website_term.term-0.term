@@ -1,0 +1,92 @@
+]0;~/website_development[01;34m~/website_development[00m$ [K]0;~/website_development[01;34m~/website_development[00m$ wget https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/archive/gh-pages.zip
+--2022-03-20 22:09:31--  https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/archive/gh-pages.zip
+Resolving github.com (github.com)... 192.30.255.113
+Connecting to github.com (github.com)|192.30.255.113|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/StartBootstrap/startbootstrap-stylish-portfolio/zip/refs/heads/gh-pages [following]
+--2022-03-20 22:09:31--  https://codeload.github.com/StartBootstrap/startbootstrap-stylish-portfolio/zip/refs/heads/gh-pages
+Resolving codeload.github.com (codeload.github.com)... 192.30.255.121
+Connecting to codeload.github.com (codeload.github.com)|192.30.255.121|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘gh-pages.zip’
+
+gh-pages.zip                                                            [<=>                                                                                                                                                                ]       0  --.-KB/s               gh-pages.zip                                                            [ <=>                                                                                                                                                               ]   4.38M  22.3MB/s    in 0.2s    
+
+2022-03-20 22:09:32 (22.3 MB/s) - ‘gh-pages.zip’ saved [4593808]
+
+]0;~/website_development[01;34m~/website_development[00m$ ls
+desktop.x11  [0m[01;31mgh-pages.zip[0m  website_term.term  [01;34myolo[0m
+]0;~/website_development[01;34m~/website_development[00m$ imo[K[K[Kunzip gh-pages.zip 
+Archive:  gh-pages.zip
+1559e3e8dbad2351c5a6222df934d86ac4459179
+   creating: startbootstrap-stylish-portfolio-gh-pages/
+   creating: startbootstrap-stylish-portfolio-gh-pages/assets/
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/favicon.ico  
+   creating: startbootstrap-stylish-portfolio-gh-pages/assets/img/
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/bg-callout.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/bg-masthead.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/portfolio-1.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/portfolio-2.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/portfolio-3.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/portfolio-4.jpg  
+   creating: startbootstrap-stylish-portfolio-gh-pages/css/
+  inflating: startbootstrap-stylish-portfolio-gh-pages/css/styles.css  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/index.html  
+   creating: startbootstrap-stylish-portfolio-gh-pages/js/
+  inflating: startbootstrap-stylish-portfolio-gh-pages/js/scripts.js  
+]0;~/website_development[01;34m~/website_development[00m$ [K]0;~/website_development[01;34m~/website_development[00m$ wget https://github.com/StartBootstrap/startbootstrap-grayscale/archive/gh-pages.zip
+--2022-03-20 22:12:58--  https://github.com/StartBootstrap/startbootstrap-grayscale/archive/gh-pages.zip
+Resolving github.com (github.com)... 192.30.255.113
+Connecting to github.com (github.com)|192.30.255.113|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/StartBootstrap/startbootstrap-grayscale/zip/refs/heads/gh-pages [following]
+--2022-03-20 22:12:59--  https://codeload.github.com/StartBootstrap/startbootstrap-grayscale/zip/refs/heads/gh-pages
+Resolving codeload.github.com (codeload.github.com)... 192.30.255.120
+Connecting to codeload.github.com (codeload.github.com)|192.30.255.120|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘gh-pages.zip.1’
+
+gh-pages.zip.1                                           [<=>                                                                                                                  ]       0  --.-KB/s               gh-pages.zip.1                                           [ <=>                                                                                                                 ]   1.08M  --.-KB/s    in 0.1s    
+
+2022-03-20 22:12:59 (7.76 MB/s) - ‘gh-pages.zip.1’ saved [1137177]
+
+]0;~/website_development[01;34m~/website_development[00m$ unzi[K[K[K[Kls
+desktop.x11  [0m[01;31mgh-pages.zip[0m  gh-pages.zip.1  [01;34mregular_mode[0m  website_term.term  [01;34myolo[0m
+]0;~/website_development[01;34m~/website_development[00m$ unzip gh-pasgeas[K[K[K[K[Kges.zip
+Archive:  gh-pages.zip
+1559e3e8dbad2351c5a6222df934d86ac4459179
+   creating: startbootstrap-stylish-portfolio-gh-pages/
+   creating: startbootstrap-stylish-portfolio-gh-pages/assets/
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/favicon.ico  
+   creating: startbootstrap-stylish-portfolio-gh-pages/assets/img/
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/bg-callout.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/bg-masthead.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/portfolio-1.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/portfolio-2.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/portfolio-3.jpg  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/assets/img/portfolio-4.jpg  
+   creating: startbootstrap-stylish-portfolio-gh-pages/css/
+  inflating: startbootstrap-stylish-portfolio-gh-pages/css/styles.css  
+  inflating: startbootstrap-stylish-portfolio-gh-pages/index.html  
+   creating: startbootstrap-stylish-portfolio-gh-pages/js/
+  inflating: startbootstrap-stylish-portfolio-gh-pages/js/scripts.js  
+]0;~/website_development[01;34m~/website_development[00m$ unzip gh-pages.zip.1
+Archive:  gh-pages.zip.1
+afb4c01213a6ea3135a1c01a33cc9588d438091e
+   creating: startbootstrap-grayscale-gh-pages/
+   creating: startbootstrap-grayscale-gh-pages/assets/
+  inflating: startbootstrap-grayscale-gh-pages/assets/favicon.ico  
+   creating: startbootstrap-grayscale-gh-pages/assets/img/
+  inflating: startbootstrap-grayscale-gh-pages/assets/img/bg-masthead.jpg  
+  inflating: startbootstrap-grayscale-gh-pages/assets/img/bg-signup.jpg  
+  inflating: startbootstrap-grayscale-gh-pages/assets/img/demo-image-01.jpg  
+  inflating: startbootstrap-grayscale-gh-pages/assets/img/demo-image-02.jpg  
+  inflating: startbootstrap-grayscale-gh-pages/assets/img/ipad.png  
+   creating: startbootstrap-grayscale-gh-pages/css/
+  inflating: startbootstrap-grayscale-gh-pages/css/styles.css  
+  inflating: startbootstrap-grayscale-gh-pages/index.html  
+   creating: startbootstrap-grayscale-gh-pages/js/
+  inflating: startbootstrap-grayscale-gh-pages/js/scripts.js  
+]0;~/website_development[01;34m~/website_development[00m$ ]0;~/website_development[01;34m~/website_development[00m$ [K]0;~/website_development[01;34m~/website_development[00m$ ]0;~/website_development[01;34m~/website_development[00m$ [K]0;~/website_development[01;34m~/website_development[00m$ 

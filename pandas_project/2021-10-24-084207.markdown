@@ -1,0 +1,18 @@
+# **Streamlit and Pandas Project!**
+Welcome to our first project using ```streamlit``` and ```pandas```. In this project, we will be building a [streamlit app](https://streamlit.io/gallery) using github, python, pandas, and Numpy.
+
+This project will help us learn to use new libraries and introduce us to new concepts in Data Science and software development, and will get us working with real data to gain skills we can use in AI projects going forward. 
+
+## **Goals for Day 1**
+
+For our first day in this project we will be setting up the following:
+* Github Account
+* Github Desktop
+* Github Repository
+* Local Environment
+* Streamlit Cloud Account
+* Streamlit Cloud App: [share.streamlit.io](https://share.streamlit.io/)
+
+Run ```streamlit hello``` once streamlit downloads.
+
+From here, our first homework will be to create and run the Streamlit app in this [tutorial](https://docs.streamlit.io/library/get-started/create-an-app).
