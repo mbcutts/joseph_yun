@@ -23,7 +23,7 @@ Our end to end product is a web app that is mobile-friendly. It begins with a si
 Joseph's github link for the project: https://github.com/zyx5202/rock_paper_scissors <br>
 Our project training folder: https://drive.google.com/drive/folders/1QTMxQOUy6YNWxAfTyEWsGja4tMopWv9y?usp=sharins <br><br>
 
-*Techical Components:* <br>
+*Technical Components:* <br>
 Python - PyTorch, Numpy, Pandas, PIL, OpenCV, Requests, Flask. <br>
 Flask Backend <br>
 YOLOv5 Object Detection Model <br>
